@@ -1,0 +1,148 @@
+ 
+     body {
+       background-image:url(logo.jpg);
+       background-repeat:repeat-x;
+
+    }
+
+    #BEMVINDOS {
+        position:absolute;
+        top:80px;
+        left:450px;
+        width:60px;
+        height:30px;
+    }
+
+    #logo {
+       position:absolute;
+       top:0px;
+       left:40px;
+       width:60px;
+       height:30px;
+    }
+
+    #btEntre {
+        position:absolute;
+        top:09px;
+        left:1140px;
+        width:40px;
+        height:19px;
+    }
+
+    #btCadastro {
+        position:absolute;
+        top:12px;
+        left:1230px;
+        width:84px;
+        height:12px;
+    }
+
+    #btAjuda {
+        position:absolute;
+        top:12px;
+        left:1360px;
+        width:41px;
+        height:14px;
+    }
+
+    #btTres{
+        position:absolute;
+        top:09px;
+        left:05px;
+        width:26px;
+        height:17px;
+    }
+
+    #menu{
+        position:absolute;
+        top:32px;
+        left:0px;
+        width:1800px;
+        height:587px;
+        width-repeat:repeat-x; 
+
+    }
+
+    #circuloUm{
+        position:absolute;
+        top:300px;
+        left:150px;
+        width:174px;
+        height:162px;
+    }
+
+    #circuloDois{
+        position:absolute;
+        top:300px;
+        left:600px;
+        width:174px;
+        height:162px;
+    }
+
+    #circuloTres{
+        position:absolute;
+        top:300px;
+        left:1100px;
+        width:174px;
+        height:162px;
+
+    }
+
+     #brancoUm{
+        position:absolute;
+        top:560px;
+        left:170px;
+        width:322px;
+        height:103px;
+
+    }
+
+    #brancoDois{
+        position:absolute;
+        top:560px;
+        left:580px;
+        width:322px;
+        height:103px;
+
+    }
+
+     #brancoTres{
+        position:absolute;
+        top:560px;
+        left:1090px;
+        width:322px;
+        height:103px;
+
+    }
+
+    #Cadastro {
+        position:absolute;
+        top:900px;
+        left:450px;
+        width:60px;
+        height:30px;
+    }
+
+    #circulobaixo1{
+        position:absolute;
+        top:1400px;
+        left:200px;
+        width:60px;
+        height:30px;
+    }
+
+    #circulobaixo2{
+        position:absolute;
+        top:1400px;
+        left:650px;
+        width:60px;
+        height:30px;
+    }
+
+    #circulobaixo3{
+        position:absolute;
+        top:1400px;
+        left:1100px;
+        width:60px;
+        height:30px;
+    }
